@@ -1,7 +1,7 @@
 # WELCOME TO WHAT THE PUCK?! 
 ## A Hockey Insight Platform
 
-## SAVED MODEL FILE IS LOCAL
+## ******SAVED MODEL FILE IS LOCAL******
 
 ## Overview
 This project is a platform designed to provide insights and strategic feedback for hockey players, coaches, and managers. It offers tools to analyze performance, compare statistics, and strategize improvements using interactive visualizations and machine learning. 
